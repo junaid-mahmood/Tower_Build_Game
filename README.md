@@ -21,3 +21,14 @@ Welcome to the **Tower Build Game**, a simple yet addictive game where the goal 
 1. Visit the [game link](https://junaid-mahmood.github.io/Tower_Build_Game/) to start playing instantly on your mobile device.
 2. Tap the screen to begin building your tower.
 3. Share your high scores with me @ j.mahmood098@gmail.com
+
+
+## Contributing
+
+If you have suggestions for improvements or find any issues, you can contribute by:
+
+1. Forking this repository.
+2. Creating a new branch (`git checkout -b feature-branch`).
+3. Making your changes and committing them (`git commit -am 'Add new feature'`).
+4. Pushing to the branch (`git push origin feature-branch`).
+5. Creating a pull request.
