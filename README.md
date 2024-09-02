@@ -4,6 +4,12 @@ Welcome to the **Tower Build Game**, a simple yet addictive game where the goal 
 
 [Play the Game](https://junaid-mahmood.github.io/Tower_Build_Game/)
 
+
+## Screenshots
+<img width="400" alt="Screenshot 2024-09-01 at 8 52 02 PM" src="https://github.com/user-attachments/assets/68e559e0-e06f-4613-b642-8a6e6f5504ed">
+
+<img width="400" alt="Screenshot 2024-09-01 at 8 52 09 PM" src="https://github.com/user-attachments/assets/03e1291a-2fc2-498c-816d-82cd5e85a2e2">
+
 ## How to Play
 
 - **Objective**: Stack blocks as high as you can to achieve the highest score.
